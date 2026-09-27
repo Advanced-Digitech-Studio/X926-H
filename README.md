@@ -1,4 +1,4 @@
-# X926-H Instruction Set Overiew
+# X926-H Instruction Set Overview
 
 Copyright Advanced Digitech Studio
 
@@ -8,7 +8,7 @@ Copyright Advanced Digitech Studio
 
 2. Modules
 
-## Overiew
+## Overview
 
 X926-H is a **stack-based** instruction set. It can be used for **virtual machine** or **hardware design**.
 
