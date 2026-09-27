@@ -1,5 +1,7 @@
 # X926-H Instruction Set Overiew
 
+Copyright Advanced Digitech Studio
+
 ## Content
 
 1. Overiew
